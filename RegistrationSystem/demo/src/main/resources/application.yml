@@ -5,7 +5,7 @@ server:
 
 spring:
   datasource:
-    password: ZfqpjMnx1029@@
+    password: "ZfqpjMnx1029@@"
     url: jdbc:postgresql://localhost:5432/registration
     username: neur0tik
   jpa:
